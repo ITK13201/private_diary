@@ -8,6 +8,14 @@ verify_ssl = true
 [packages]
 django = "*"
 psycopg2-binary = "*"
+django-allauth = "*"
+pillow = "*"
+selenium = "*"
+django-heroku = "*"
+gunicorn = "*"
+whitenoise = "*"
+django-cloudinary-storage = "*"
+sendgrid = "*"
 
 [requires]
 python_version = "3.8"
