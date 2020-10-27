@@ -17,3 +17,7 @@ $ pipenv install
 ```bash
 $ pipenv shell
 ```
+
+## References
+
+- 「Django 開発入門」　大高隆　翔泳社　2019年
